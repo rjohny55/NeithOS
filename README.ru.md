@@ -11,7 +11,7 @@
 Основная документация — [на английском](docs/en/README.md).
 
 
-Это публичная документация **NeithOS**, размещённая в репозитории **N8S**.
+Это публичная документация **NeithOS**, размещённая в репозитории **NeithOS**.
 Скриншоты сохранены из демонстрационного интерфейса AI Server Manager и могут
 содержать прежний бренд. Они иллюстрируют общие сценарии панели, а не являются
 новой съёмкой интерфейса NeithOS 1.0.39.
@@ -129,7 +129,7 @@ Crypto/Stock Trader Analyst, Media Factory и DevOps Toolkit.
 
 ```bash
 curl -fL --proto '=https' --proto-redir '=https' \
-  https://raw.githubusercontent.com/rjohny55/N8S/main/install.sh \
+  https://raw.githubusercontent.com/rjohny55/NeithOS/main/install.sh \
   -o install.sh
 bash install.sh --help
 bash install.sh auto --download-only

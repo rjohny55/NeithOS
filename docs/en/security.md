@@ -49,7 +49,7 @@
 3. Copy the relevant error and redact credentials and personal data; review screenshots as well as text.
 4. Submit the sanitized report through the appropriate channel below.
 
-Use [GitHub issues](https://github.com/rjohny55/N8S/issues) for
+Use [GitHub issues](https://github.com/rjohny55/NeithOS/issues) for
 non-sensitive problems. Include the image family/version, hardware model and
 memory, model/engine, steps to reproduce and sanitized error messages.
 

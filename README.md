@@ -13,7 +13,7 @@ a separate [Russian guide](docs/ru/README.md) is available.
 
 
 This is the **NeithOS edition** of the public installation and documentation
-repository, published as **N8S**. The retained screenshots come from the
+repository, published as **NeithOS**. The retained screenshots come from the
 AI Server Manager demonstration interface and may still display its original
 branding. They illustrate the shared panel workflows; they are not newly
 captured NeithOS 1.0.39 screens.
@@ -136,7 +136,7 @@ Download the public entry point and read it before running:
 
 ```bash
 curl -fL --proto '=https' --proto-redir '=https' \
-  https://raw.githubusercontent.com/rjohny55/N8S/main/install.sh \
+  https://raw.githubusercontent.com/rjohny55/NeithOS/main/install.sh \
   -o install.sh
 bash install.sh --help
 bash install.sh auto --download-only

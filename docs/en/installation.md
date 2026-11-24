@@ -30,7 +30,7 @@ repository's public [install.sh](../../install.sh):
 
 ```bash
 curl -fL --proto '=https' --proto-redir '=https' \
-  https://raw.githubusercontent.com/rjohny55/N8S/main/install.sh \
+  https://raw.githubusercontent.com/rjohny55/NeithOS/main/install.sh \
   -o install.sh
 bash install.sh --help
 bash install.sh auto --download-only
