@@ -1,0 +1,16 @@
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.sqlite
+*.db
+*.log
+data/
+models/
+uploads/
+backups/
+ai-server-manager-*.????????
+
+neithos-*.????????
